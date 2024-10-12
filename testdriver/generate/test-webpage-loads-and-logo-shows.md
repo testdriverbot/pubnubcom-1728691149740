@@ -1,0 +1,1 @@
+1. /explore Assert that the webpage logo is visible on the page.
